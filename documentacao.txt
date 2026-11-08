@@ -1,0 +1,9 @@
+DOCUMENTAÇÃO DO PROJETO
+
+Projeto: Gerenciamento de Configuração
+
+Ferramenta utilizada: GitHub
+
+Objetivo: Organizar, armazenar e controlar as alterações dos artefatos de software.
+
+Resultado: Repositório criado para manter os arquivos do projeto organizados.
